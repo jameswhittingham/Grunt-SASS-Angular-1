@@ -1,0 +1,16 @@
+{
+  "name": "Grunt SASS Angular 1",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "^1.4.0",
+    "bootstrap-sass-official": "^3.2.0"
+  },
+  "appPath": "app",
+  "moduleName": "myApp",
+  "devDependencies": {
+    "selectivizr": "~1.0.2",
+    "respond": "~1.4.2",
+    "html5shiv": "~3.7.3",
+    "jquery": "~2.1.4"
+  }
+}
